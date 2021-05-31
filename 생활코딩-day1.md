@@ -1,4 +1,4 @@
-## Day1 summary - 
+## Day1 summary - 생활코딩
 5/30/2021
 
 **contents for today**
