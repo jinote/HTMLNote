@@ -51,3 +51,20 @@ Web<br>
 - Click '1.HTML', it goes to 1.html
 - Click '2.CSS', it goes to 2.html
 - Click '3.JavaScript', it goes to 3.html
+<br>
+
+>**원시앱(Primitive Web)**
+- Home of the first website
+- http://info.cern.ch/
+- Berners-Lee
+<br>
+
+>**인터넷을 여는 열쇠: Server & Client**
+- Two computers: 
+- Web Browser(index.html):Client ---(request)---> Web Server(index.html):Server
+- Web Browser(index.html):Client <--(response)--- Web Server(index.html):Server
+- Activate web
+
+공부는 이해하는 게 아니라 익숙해지는 것이다.
+
+
