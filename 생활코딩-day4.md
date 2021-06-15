@@ -7,6 +7,7 @@
 <br> - Web Server & http
 <br> - Communication btw Web Browser and Web Server
 <br> 18. 수업을 마치며1
+<br> 19. 수업을 마치며12
 <br>
 >**Web Hosting (Github pages)**
 
