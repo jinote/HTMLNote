@@ -7,9 +7,8 @@
 <br> 19. 수업을 마치며2
 <br> 20. 수업을 마치며2
 <br> 21. 부록: 코드의 힘
-
-
 <br>
 >**Web Hosting (Github pages)**
+
 How to set up "master branch"
 - settings -> GitHub Pages(scroll down) -> Source (select "master branch") -> Save
