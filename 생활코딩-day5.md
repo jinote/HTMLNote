@@ -17,3 +17,7 @@ For example
 - Paste the HTML in your markdown and you can see the video in the web you created
 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+>**How to add comments**
+
+- Use https://disqus.com/
