@@ -6,7 +6,6 @@
 <br> - 동영상 삽입 (Adding a video)
 <br> - 댓글 기능 추가 (Adding comments)
 <br> - 채팅 기능 추가 (Adding chat room)
-<br> - 방문자 분석기 (A1
 <br>
 >**Adding a video**
 
